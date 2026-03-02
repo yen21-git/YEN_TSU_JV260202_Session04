@@ -1,11 +1,24 @@
-p2 {
-  color: rgb(5, 5, 8);
-  background-color: rgb(247, 237, 107);
+div.container {
+    background-color: rgb(247, 247, 147);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
 }
-b {
-  color:orange;
+div.container h1 {
+    color: blue;
+    margin-bottom: 15px;
 }
-b2 {
-  color: orange;
-  
+div.container p {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+div.container button {
+    background-color: gray;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
 }
