@@ -1,22 +1,11 @@
-h1 {
-    background-color: black;
-    color: white;
-    text-align: center;
+p2 {
+  color: rgb(5, 5, 8);
+  background-color: rgb(247, 237, 107);
 }
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+b {
+  color:orange;
 }
-p {
-    font-size: 18px;
-    text-align: center;
-}
-p.caption {
-    text-align: center;
-    font-style: italic;
-    margin-top: 30px;
-}
-div {
-    text-align: center;
+b2 {
+  color: orange;
+  
 }
